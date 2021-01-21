@@ -8,21 +8,21 @@ function Carousels() {
       <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"></li>
     </ol>
     <div className="carousel-inner">
-      <div className="carousel-item active animate__animated animate__heartBeat">
+      <div className="carousel-item active animate__animated animate__shakeY">
         <img src="https://wallpaperaccess.com/full/2865574.jpg" className="d-block w-100" alt="..."/>
         <div className="carousel-caption d-none d-md-block">
           <h5>First slide label</h5>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
         </div>
       </div>
-      <div className="carousel-item animate__animated animate__heartBeat">
+      <div className="carousel-item animate__animated animate__shakeY">
         <img src="https://images.wallpapersden.com/image/download/server-room_a2xrbG6UmZqaraWkpJRnamtlrWZpaWU.jpg" className="d-block w-100" alt="..."/>
         <div className="carousel-caption d-none d-md-block">
           <h5>Second slide label</h5>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
       </div>
-      <div className="carousel-item animate__animated animate__heartBeat">
+      <div className="carousel-item animate__animated animate__shakeY">
         <img src="https://wallpapercave.com/wp/wp4153960.jpg" className="d-block w-100" alt="..."/>
         <div className="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>

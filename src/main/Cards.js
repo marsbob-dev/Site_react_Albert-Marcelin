@@ -1,6 +1,9 @@
 function Cards() {
     return (
         <div classNameName="row">
+            <hr className="hrh"></hr>
+            <center><h1 className="sv"><i class="fad fa-diamond"></i> OUR SERVICES <i class="fad fa-diamond"></i></h1></center>
+            <hr className="hrh"></hr>
 <div className="card-group">
   <div className="card">
     <img src="https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F2%2F4%2F8%2F3%2F18883842-4-eng-GB%2FCropped-1547481611RTX1RCVZ.jpg?source=nar-cms" className="card-img-top animate__animated animate__fadeIn" alt="..."/>
