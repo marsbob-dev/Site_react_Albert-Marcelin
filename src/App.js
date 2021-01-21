@@ -1,10 +1,10 @@
 import './App.css';
-import "../node_modules/bootstrap/dist/js/bootstrap"
+import "../node_modules/bootstrap/dist/js/bootstrap";
+import Body from "./main/Body";
 function App() {
   return (
-    <div>
-      <h1 className="bg-success">Test</h1>
-    </div>
+    <Body></Body>
+    
   );
 }
 
