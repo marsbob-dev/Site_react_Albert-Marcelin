@@ -5,4 +5,15 @@
 
 .card-group{
     padding: 25px;
+    
+}
+
+.card{
+    border: 2px rgb(21, 19, 28) solid;
+    background-color: #0c0c0c;
+    color: #fff;
+    box-shadow: -1px 0px 14px 8px rgba(0,0,0,0.75);
+}
+.bodybg{
+    background-color: #111315;
 }
