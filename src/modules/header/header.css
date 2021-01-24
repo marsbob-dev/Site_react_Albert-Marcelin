@@ -1,0 +1,39 @@
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(27, 27, 27);
+}
+.fa-2x{
+    font-size: larger;
+}
+.bg-header{
+    background-color: rgba(255, 255, 255, 0.836);
+    z-index: 2;
+}
+.logoHeader{
+    height: 10vh;
+}
+a:hover{
+    color: rgb(252, 92, 0);
+}
+#fixedNav{
+    position: fixed;
+}
+#bannerHeader{
+    height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/serv.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+#textBanner{
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
