@@ -3,8 +3,7 @@ li{
 }
 a{
     text-decoration: none;
-    color: rgb(27, 27, 27);
-}
+    }
 .fa-2x{
     font-size: larger;
 }
@@ -15,8 +14,8 @@ a{
 .logoHeader{
     height: 10vh;
 }
-a:hover{
-    color: rgb(252, 92, 0);
+.headerA:hover{
+    color: rgb(252, 92, 0) !important;
 }
 #fixedNav{
     position: fixed;
@@ -37,3 +36,4 @@ a:hover{
     transform: translate(-50%, -50%);
     color: white;
 }
+

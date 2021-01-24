@@ -1,11 +1,10 @@
-import Header from "../header/Header.js"
 import React from "react";
 
 function Home() {
     return (
-        <div>
-            <Header></Header>
-        </div>
+       <div>
+           <h1>moche</h1>
+       </div>
     );
   }
   
