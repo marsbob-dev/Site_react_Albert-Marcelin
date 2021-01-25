@@ -9,7 +9,7 @@ function Banner () {
                 <h1>Tech & Services</h1>
                 <p>Merch and Services about tech</p>
                 <button className="btn btn-dark px-4 rounded-pill" id="white" type="button">
-                    <Link to="/test" className="text-white headerA">
+                    <Link to="/contact" className="text-white headerA">
                     See more    
                     </Link>
                 </button> 

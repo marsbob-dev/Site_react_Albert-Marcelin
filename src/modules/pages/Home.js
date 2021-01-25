@@ -1,9 +1,10 @@
 import React from "react";
+import Body from "../main/Body"
 
 function Home() {
     return (
        <div>
-           <h1>moche</h1>
+           <Body></Body>
        </div>
     );
   }
