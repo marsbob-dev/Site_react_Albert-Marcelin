@@ -3,6 +3,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap";
 import Home from "./modules/pages/Home";
 import Test from "./modules/pages/Test";
 import React, { Fragment } from "react";
+import Footer from "./modules/footer/Footer"
 import {
   BrowserRouter as Router,
   Switch,
@@ -23,6 +24,7 @@ function App() {
        <Home />
      </Route>
     </Switch>
+    <Footer />
     </div>
 </Router>
 
