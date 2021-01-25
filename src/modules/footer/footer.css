@@ -1,0 +1,20 @@
+#Footer{
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/backgroundFooter.jpg);
+height: auto;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+.marginCustom{
+    margin-top: 10vh !important ;
+}
+.marginTB{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.textColor{
+    color: darkgreen;
+}
+.textColor:hover{
+    color: orangered;
+}
