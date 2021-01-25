@@ -1,0 +1,52 @@
+.carousel-item{
+    height: 657px;
+}
+
+.card-group{
+    padding: 25px;
+    
+}
+
+.card{
+    border: 2px rgb(21, 19, 28) solid;
+    background-color: #0c0c0c;
+    color: #fff;
+    box-shadow: -1px 0px 14px 8px rgba(0,0,0,0.75);
+}
+.bodybg{
+    background-color: #111315;
+}
+.btn-dark{
+    color: #fff;
+    background-color: #101113;
+    border-color: #2e8c15;
+}
+
+.table{
+    --bs-table-bg: transparent;
+    --bs-table-striped-color: #212529;
+    --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+    --bs-table-active-color: #212529;
+    --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+    --bs-table-hover-color: #212529;
+    --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #ffffff;
+    vertical-align: top;
+    border-color: #2e8c15;
+}
+
+.sv{
+    font-family: Arial Black;
+    color: #fff;
+    margin-top: 15px;
+}
+
+.hrh{
+    color: green;
+}
+
+.imgT{
+    padding: 10px;
+}
